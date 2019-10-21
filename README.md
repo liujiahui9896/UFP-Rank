@@ -25,7 +25,7 @@ Please cite this paper if you refer to the related information.
 ## Testing:
 ### Description:
     We created a target dataset for testing to conduct the tag recommendation and uploading experiment to verify the popularity enhancing performance.
-    The target dataset including 990 images randomly selected from Wikimedia Commons (https://commons.wikimedia.org/wiki/Main_Page).
+    We randomly selected 1000 images (only 990 images were succussfully uploaded to Flickr during experiments) from Wikimedia Commons (https://commons.wikimedia.org/wiki/Main_Page).
     The id number of selected images are shown in the File test_wiki_id.csv.
 
     The corresponding initial tags were generated according to the image contents automatically by a computer vision API provided by the Microsoft Cognitive Services (https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/).
