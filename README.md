@@ -8,6 +8,26 @@ Please cite this paper if you refer to the related information.
     Xueting Wang, Yiwei Zhang, Toshihiko Yamasaki (The University of Tokyo)
     ACM Multimedia 2019
 
+    @inproceedings{
+        Wang:2019:UFP:3343031.3350920,
+        author = {Wang, Xueting and Zhang, Yiwei and Yamasaki, Toshihiko},
+        title = {User-Aware Folk Popularity Rank: User-Popularity-Based Tag Recommendation That Can Enhance Social Popularity},
+        booktitle = {Proceedings of the 27th ACM International Conference on Multimedia},
+        series = {MM '19},
+        year = {2019},
+        isbn = {978-1-4503-6889-6},
+        location = {Nice, France},
+        pages = {1970--1978},
+        numpages = {9},
+        url = {http://doi.acm.org/10.1145/3343031.3350920},
+        doi = {10.1145/3343031.3350920},
+        acmid = {3350920},
+        publisher = {ACM},
+        address = {New York, NY, USA},
+        keywords = {sns, social media, social popularity, tag ranking, tag recommendation, user-aware},
+    } 
+
+
 
 
 ## Training:
